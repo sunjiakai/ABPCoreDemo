@@ -1,13 +1,9 @@
-# ABPCoreDemo
-PhoneBook
-必备条件
+﻿必备条件
 nuget 配置
 首先设置开发环境，打开nuget程序包管理器，添加一个nuget源。
-
 https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json
-如图所示： Nuget Option 然后生成解决方案。
-
+如图所示：  然后生成解决方案。
 数据库的生成
-选择EntityFrameworkCore层，作为默认 Generator Data Base 执行
-
+选择EntityFrameworkCore层，作为默认  执行
 update-database
+
