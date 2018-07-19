@@ -22,6 +22,9 @@ namespace MPACore.PhoneBook.Web.Host.Startup
 {
     public class Startup
     {
+        /// <summary>
+        /// 
+        /// </summary>
         private const string _defaultCorsPolicyName = "localhost";
 
         private readonly IConfigurationRoot _appConfiguration;
